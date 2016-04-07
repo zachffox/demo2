@@ -1,9 +1,6 @@
 # demo2
 ## Oil provisioning article
-Banks headquartered in oil-heavy states increased loan loss provisioning ```well above the national median```
-
-*Are you talking aggregates or median?*
-
+Banks headquartered in oil-heavy states increased loan loss provisioning this is how we'll end the sentence instead.
 in the 2015 fourth quarter. But since reserves are coming up from a low base, some analysts think banks will need to further increase provisioning to deal with the energy fallout.
 In Texas, nearly 100,000 people are employed in oil and gas extraction, representing more than half the nationwide total. Banks in the state increased provisioning by 71.94% year-over-year to $1.17 billion in 2015. 
 Elsewhere, the increases were even more dramatic, doubling in Wyoming and tripling in Alaska. Nationally, provisioning was up 21.56% year-over-year. But the total provisioning for the year was still a mere fraction of what banks set aside at the height of the credit crisis in 2009. Although depressed oil prices were a theme throughout 2015, U.S. production only started declining in the 2016 first quarter. Banks have reported increases in classified loans, but charge-offs remain very low.
